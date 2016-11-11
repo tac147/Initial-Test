@@ -1,2 +1,2 @@
 # Initial-Test
-Learning GitHub
+Learning GitHub.  Following the tutorial.
